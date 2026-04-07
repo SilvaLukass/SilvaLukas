@@ -1,16 +1,14 @@
-<div style="position: relative; width: 100%; height: 250px; overflow: hidden; border-radius: 10px; margin-bottom: 20px;">
-
-  <img src="https://github.com/SilvaLukass/SilvaLukas/blob/main/sunset-mountain-range.jpg" alt="Banner Landscape" style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0; left: 0; z-index: 1;">
-
-  <div style="position: absolute; top: 30%; left: 50%; transform: translate(-50%, -50%); z-index: 2; width: 100%; text-align: center;">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&pause=2000&color=2E4053&background=0d111700&center=true&vCenter=true&width=600&lines=Lucas+Silva;Software+Engineering+Student" alt="Luca Silva - Typing SVG" />
-  </div>
-
-</div>
-
 <div align="center">
-  ![Profile views](https://komarev.com/ghpvc/?username=SilvaLukas&style=for-the-badge&color=6c63ff)
-</div>
+
+  <img src="https://raw.githubusercontent.com/SilvaLukass/SilvaLukas/main/sunset-mountain-range.jpg" alt="Banner Landscape" width="100%" style="border-radius: 10px;">
+
+  <br><br>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&pause=2000&color=FFFFFF&background=0d111700&center=true&vCenter=true&width=600&lines=Lucas+Silva;Software+Engineering+Student" alt="Luca Silva - Typing SVG" />
+
+  <br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=SilvaLukass&style=for-the-badge&color=6c63ff" alt="Profile views">
 
 </div>
 
