@@ -1,26 +1,30 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=30&pause=2000&color=e6edf3&background=0d111700&center=true&vCenter=true&width=480&lines=Lucas+Silva" alt="Lucas Silva" />
+<img src="https://raw.githubusercontent.com/Ritika307/Ritika307/master/assets/images/header.gif" alt="GitHub Profile Header" width="100%" height="250px">
 
-<p style="color:#8b949e;">Computer Engineering Student · UTAD, Vila Real 🇵🇹</p>
+<br>
 
-![Profile views](https://komarev.com/ghpvc/?username=SilvaLukass&style=flat-square&color=6c63ff)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=2000&color=FFFFFF&background=0d111700&center=true&vCenter=true&width=480&lines=Lucas+Silva;Computer+Engineering+Student" alt="Luca Silva - Typing SVG" />
+
+<br>
+
+![Profile views](https://komarev.com/ghpvc/?username=SilvaLukass&style=for-the-badge&color=6c63ff)
 
 </div>
 
 ---
 
-### 👤 About me
+### 👤 Sobre Mim
 
-- 🎓 Student at **UTAD** — Universidade de Trás-os-Montes e Alto Douro
-- 🤖 Focused on **Artificial Intelligence** and Machine Learning
-- 💻 Building with **Python · C/C++ · JavaScript**
-- 🎵 Music lover — code by day, music by night
+- 🎓 **Estudante na UTAD** — Universidade de Trás-os-Montes e Alto Douro
+- 🤖 Focado em **Inteligência Artificial** e Machine Learning
+- 💻 Desenvolvendo com **Python · C/C++ · JavaScript**
+- 🎵 Amante de Música — *code by day, music by night*
 - 📍 Vila Real, Portugal
 
 ---
 
-### 🛠 Tech stack
+### 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -32,15 +36,20 @@
 
 ---
 
-### 📊 GitHub stats
+### 📊 Estatísticas do GitHub (Com o Tema 'Dracula')
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SilvaLukass&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvaLukass&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SilvaLukass&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
+  
+  &nbsp;
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvaLukass&layout=compact&theme=dracula&hide_border=true" />
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SilvaLukass&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SilvaLukass&theme=dracula&hide_border=true" />
 </div>
 
 ---
