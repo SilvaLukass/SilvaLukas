@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SilvaLukas/SilvaLukas/main/sunset-mountain-range.jpg" alt="GitHub Profile Header" width="100%" height="250px">
+<img src="[https://raw.githubusercontent.com/SilvaLukas/SilvaLukas/main/sunset-mountain-range.jpg](https://github.com/SilvaLukass/SilvaLukas/blob/main/README.md)" alt="GitHub Profile Header" width="100%" height="250px">
 
 <br>
 
