@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/SilvaLukass/SilvaLukas/main/sunset-mountain-range.jpg" alt="Banner Landscape" width="100%" style="border-radius: 10px;">
+  <img src="https://raw.githubusercontent.com/SilvaLukass/SilvaLukas/main/sunset-mountain-range.jpg" alt="Banner Landscape" width="100%" height="50%" style="border-radius: 10px;">
 
   <br><br>
 
